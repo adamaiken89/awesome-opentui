@@ -44,6 +44,7 @@
 
 ## Libraries
 
+- [anscribe](https://github.com/msmps/anscribe) - Capture live UI from an OpenTUI app and hand it to an agent via the clipboard or MCP.
 - [opentui-spinner](https://github.com/msmps/opentui-spinner) - A spinner component for OpenTUI.
 - [opentui-skill](https://github.com/msmps/opentui-skill) - OpenTUI reference docs for OpenCode covering Core, React, Solid.
 - [opentui-ui](https://github.com/msmps/opentui-ui) - UI component library for terminal applications built on @opentui/core.
