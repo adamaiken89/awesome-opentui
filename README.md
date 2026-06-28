@@ -42,6 +42,7 @@
 - [restman](https://github.com/cadamsdev/restman) - A terminal interface for testing REST APIs.
 - [t-req](https://github.com/tensorix-labs/t-req) - A terminal interface for browsing and executing .http file workspaces. 
 - [termdraw](https://github.com/benvinegar/termdraw) - A terminal drawing editor for editable diagrams, UI mocks, and text graphics.
+- [img2epub](https://github.com/adamaiken89/img2epub) - A terminal interface tool to batch convert folders of images into EPUB or KEPUB books.
 
 ## Libraries
 
